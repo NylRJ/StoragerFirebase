@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512912696979",
+    "firebase_url": "https://storegefirebaserj.firebaseio.com",
+    "project_id": "storegefirebaserj",
+    "storage_bucket": "storegefirebaserj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512912696979:android:f566fa9aa178191a10cf66",
+        "android_client_info": {
+          "package_name": "dominando.android.myfirebasestorege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512912696979-fe2194nbra6no9ioc6fissgevlctrdjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYoPneHivRwnacWgGixizb6N2kjCfFjA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512912696979-fe2194nbra6no9ioc6fissgevlctrdjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
